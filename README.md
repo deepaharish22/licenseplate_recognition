@@ -1,3 +1,5 @@
+# Given an image of a vehicle (Indian), you need to identify the dimensions of each character (A-Z, 0-9) from the license plate
+
 # IMPORTING PACKAGES AND DISPLAYING IMAGE:
 1. Importing necessary packages
        Opencv,Numpy,pytesseract\.
