@@ -9,7 +9,7 @@
 5. To localize the license plate, a machine learning algorithm named  haarcascade which is pre-trained with several “positive” sample views of a particular object and arbitrary “negative” images of the same size is used\.
 6. Using cascadeClassifier () function, we apply the algorithm to the region of the image and in turn it detects the object in question\.
 7. With detectMultiScale the detected objects are returned as a list of rectangles\.
-(Reference for Cascade classifier: \ https://sites.google.com/site/5kk73gpu2012/assignment/viola-jones-face-detection#TOC-Image-Pyramid) \.
+(Reference for Cascade classifier: https://sites.google.com/site/5kk73gpu2012/assignment/viola-jones-face-detection#TOC-Image-Pyramid) \.
 
 8. Using for loop, bounding box is made for the license plate and the image is shown as well\.
  
